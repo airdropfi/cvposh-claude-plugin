@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cvposh": {
+      "type": "http",
+      "url": "https://cvposh.com/api/mcp"
+    }
+  }
+}

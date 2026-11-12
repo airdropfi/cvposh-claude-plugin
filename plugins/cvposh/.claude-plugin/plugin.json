@@ -1,0 +1,20 @@
+{
+  "name": "cvposh",
+  "displayName": "CVPosh",
+  "version": "1.0.0",
+  "description": "Read your CVPosh resumes from Claude Code, check them for ATS problems and match them to a job posting. Read-only: it never changes your CVs.",
+  "author": {
+    "name": "CVPosh",
+    "email": "support@cvposh.com",
+    "url": "https://cvposh.com"
+  },
+  "homepage": "https://cvposh.com",
+  "repository": "https://github.com/airdropfi/cvposh-claude-plugin",
+  "license": "MIT",
+  "keywords": ["resume", "cv", "ats", "job application", "career", "mcp"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://cvposh.com/privacy#ai-assistants",
+  "supportUrl": "https://cvposh.com",
+  "privacyPolicyUrl": "https://cvposh.com/privacy",
+  "termsOfServiceUrl": "https://cvposh.com/terms"
+}
